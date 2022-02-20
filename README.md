@@ -1,4 +1,4 @@
-# grafo-euleriano-hamiltoniano
+# Grafos Euleriano e Hamiltoniano
  Algoritmo que verifica se um grafo é Euleriano e/ou Hamiltoniano.
 
  **Integrantes do projeto:** Brener Augusto de Oliveira e Bruno Butka.
